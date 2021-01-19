@@ -10,6 +10,12 @@ import com.aliyuncs.profile.DefaultProfile;
 import com.google.gson.Gson;
 import common.GlobalConstants;
 
+/**
+ * 目标检测
+ * 检测图像中的物体。可识别90类物体
+ *
+ * @author Shadowalker
+ */
 public class DetectObjectDemo {
 
     public static void main(String[] args) {
