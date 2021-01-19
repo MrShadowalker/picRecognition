@@ -1,0 +1,8 @@
+
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(²òá8õ”ˆÄñ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(øåëìÿÿÿÿÿ8õ”ˆÄñ.
+Q
+java:S1128"4Remove this unused import 'com.aliyun.CommonConfig'.(ÅúÀ 8Íá‹Äñ.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(›æÈ ÿÿÿÿÿ8õ”ˆÄñ.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(€–ë8õ”ˆÄñ.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(äÃËëûÿÿÿÿ8õ”ˆÄñ.
