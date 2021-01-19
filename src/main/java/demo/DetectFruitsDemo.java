@@ -10,6 +10,12 @@ import com.aliyuncs.profile.DefaultProfile;
 import com.google.gson.Gson;
 import common.GlobalConstants;
 
+/**
+ * 水果检测识别
+ * 可检测出图像中是否含有水果并识别出水果的种类，目前支持60种水果和16种坚果。
+ *
+ * @author Shadowalker
+ */
 public class DetectFruitsDemo {
 
     public static void main(String[] args) {

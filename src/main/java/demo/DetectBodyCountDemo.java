@@ -10,6 +10,11 @@ import com.aliyuncs.profile.DefaultProfile;
 import com.google.gson.Gson;
 import common.GlobalConstants;
 
+/**
+ * 人体计数
+ *
+ * @author Shadowalker
+ */
 public class DetectBodyCountDemo {
 
     private static DefaultProfile profile = DefaultProfile.getProfile("cn-shanghai", GlobalConstants.OSS_ACCESS_KEY_ID, GlobalConstants.OSS_ACCESS_KEY_SECRET);
