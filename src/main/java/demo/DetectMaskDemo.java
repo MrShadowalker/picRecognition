@@ -12,6 +12,7 @@ import common.GlobalConstants;
 
 /**
  * 可以对输入图片中面积最大的人脸进行口罩检测。
+ *
  * @author Shadowalker
  */
 public class DetectMaskDemo {

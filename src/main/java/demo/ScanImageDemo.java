@@ -18,6 +18,7 @@ import java.util.UUID;
  * 图片内容安全
  * 图片内容安全支持检测的场景包括有图片智能鉴黄、图片涉恐涉政识别、图文违规识别、图片二维码识
  * 别、图片不良场景识别和图片logo识别等。
+ *
  * @author Shadowalker
  */
 public class ScanImageDemo {
