@@ -10,6 +10,12 @@ import com.aliyuncs.profile.DefaultProfile;
 import com.google.gson.Gson;
 import common.GlobalConstants;
 
+/**
+ * 人脸属性识别
+ * 可以识别检测人脸的性别、年龄、表情、眼镜四种属性。返回人脸的1024维深度学习特征，基于这个特征并按照特征比较规则，可实现高性能的人脸识别。
+ *
+ * @author Shadowalker
+ */
 public class RecognizeFaceDemo {
 
     private static DefaultProfile profile = DefaultProfile.getProfile("cn-shanghai", GlobalConstants.OSS_ACCESS_KEY_ID, GlobalConstants.OSS_ACCESS_KEY_SECRET);

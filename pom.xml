@@ -14,29 +14,124 @@
     </properties>
 
     <dependencies>
+        <!-- Alibaba Cloudloud SDK for Java -->
         <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-core -->
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-core</artifactId>
-            <version>4.4.8</version>
+            <version>4.5.14</version>
         </dependency>
+
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.52</version>
+            <version>1.2.74</version>
         </dependency>
+
+        <!-- 人脸人体 -->
         <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-facebody -->
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-facebody</artifactId>
             <version>1.0.8</version>
         </dependency>
+
+        <!-- 文字识别 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-ocr -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-ocr</artifactId>
+            <version>1.0.9</version>
+        </dependency>
+
+        <!-- 商品理解 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-goodstech -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-goodstech</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+
+        <!-- 内容审核 -->
         <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-facebody -->
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-imageaudit</artifactId>
             <version>1.0.6</version>
         </dependency>
+
+        <!-- 图像识别 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-imagerecog -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-imagerecog</artifactId>
+            <version>1.0.9</version>
+        </dependency>
+
+        <!-- 图像生产 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-imageenhan -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-imageenhan</artifactId>
+            <version>1.1.2</version>
+        </dependency>
+
+        <!-- 分割抠图 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-imageseg -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-imageseg</artifactId>
+            <version>1.1.9</version>
+        </dependency>
+
+        <!-- 目标检测 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-objectdet -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-objectdet</artifactId>
+            <version>1.0.9</version>
+        </dependency>
+
+        <!-- 视觉搜索 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-imgsearch -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-imgsearch</artifactId>
+            <version>1.1.6</version>
+        </dependency>
+
+        <!-- 图像分析处理 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-imageprocess -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-imageprocess</artifactId>
+            <version>1.0.10</version>
+        </dependency>
+
+        <!-- 视频理解 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-videorecog -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-videorecog</artifactId>
+            <version>1.0.1</version>
+        </dependency>
+
+        <!-- 视频生产 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-videoenhan -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-videoenhan</artifactId>
+            <version>1.0.6</version>
+        </dependency>
+
+        <!-- 视频分割 -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-videoseg -->
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-videoseg</artifactId>
+            <version>1.0.2</version>
+        </dependency>
+
     </dependencies>
 
 </project>
