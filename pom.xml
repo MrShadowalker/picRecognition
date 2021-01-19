@@ -14,7 +14,7 @@
     </properties>
 
     <dependencies>
-        <!-- Alibaba Cloudloud SDK for Java -->
+        <!-- Alibaba Cloud SDK for Java -->
         <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-core -->
         <dependency>
             <groupId>com.aliyun</groupId>
@@ -53,7 +53,7 @@
         </dependency>
 
         <!-- 内容审核 -->
-        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-facebody -->
+        <!-- https://mvnrepository.com/artifact/com.aliyun/aliyun-java-sdk-imageaudit -->
         <dependency>
             <groupId>com.aliyun</groupId>
             <artifactId>aliyun-java-sdk-imageaudit</artifactId>
